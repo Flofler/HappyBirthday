@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="gratulation_text">Happy birthday to you!</string>
+    <string name="love_text">I love you!</string>
+    <string name="love_text_button">List with things I love about you&#8230;</string>
+</resources>
