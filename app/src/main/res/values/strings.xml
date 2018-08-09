@@ -4,4 +4,6 @@
     <string name="love_text">Ich liebe dich!</string>
     <string name="love_text_button">Liste mit Sachen, die ich an dir mag&#8230;</string>
     <string name="heart_image_descr" translatable="false">A simple heart</string>
+    <string name="channel_name">main_channel</string>
+    <string name="channel_description">Used for common notifications</string>
 </resources>
